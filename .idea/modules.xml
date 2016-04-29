@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/datasourceDemo/applications_datasourceDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/datasourceDemo/applications_datasourceDemo.iml" group="applications/datasourceDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/datasourceDemo/applications_datasourceDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/datasourceDemo/applications_datasourceDemo_main.iml" group="applications/datasourceDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/datasourceDemo/applications_datasourceDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/datasourceDemo/applications_datasourceDemo_test.iml" group="applications/datasourceDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/datasourceApi/components_datasourceApi.iml" filepath="$PROJECT_DIR$/.idea/modules/components/datasourceApi/components_datasourceApi.iml" group="components/datasourceApi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/datasourceApi/components_datasourceApi_main.iml" filepath="$PROJECT_DIR$/.idea/modules/components/datasourceApi/components_datasourceApi_main.iml" group="components/datasourceApi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/datasourceApi/components_datasourceApi_test.iml" filepath="$PROJECT_DIR$/.idea/modules/components/datasourceApi/components_datasourceApi_test.iml" group="components/datasourceApi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datasourceDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/datasourceDemo.iml" />
+    </modules>
+  </component>
+</project>

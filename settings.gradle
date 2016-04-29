@@ -1,0 +1,5 @@
+rootProject.name = 'datasourceDemo'
+
+include 'applications/datasourceDemo'
+
+include 'components/datasourceApi'
